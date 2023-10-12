@@ -1,0 +1,67 @@
+#container-geral {
+  text-align: center;
+  padding-top: 8%;
+  width: min-content;
+}
+#container-geral #gif_and_search #span-col {
+  margin-left: 225px;
+  margin-top: -20px;
+}
+#container-geral #gif_and_search .span-imagens {
+  color: #4487f6;
+  font: 16px/16px roboto-regular, arial, sans-serif;
+  white-space: nowrap;
+}
+#container-geral #gif_and_search #search_bar {
+  margin-top: 20px;
+}
+#container-geral #gif_and_search #search_bar .text_bar {
+  width: 550px;
+  background-color: #202124;
+  border: 2px solid rgb(99, 98, 98);
+  border-radius: 25px;
+  padding: 10px;
+  color: white;
+}
+#container-geral #gif_and_search #search_bar .text_bar:hover {
+  background-color: rgba(73, 73, 73, 0.288);
+}
+#container-geral #gif_and_search #search_bar .submit-btn {
+  width: 150px;
+  height: 36px;
+  border: 1px solid #303134;
+  border-radius: 4px;
+  margin: 27px 5px 0px 5px;
+  color: #e8eaed;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #303134;
+  font-size: 15px;
+}
+#container-geral #gif_and_search #search_bar .submit-btn:hover {
+  box-shadow: 0 1px 3px rgba(23, 23, 23, 0.24);
+  background-color: #303134;
+  border: 1px solid #5f6368;
+  color: #e8eaed;
+}
+
+.anchors {
+  margin-right: 20px;
+  margin-top: 13px;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  vertical-align: middle;
+}
+.anchors a {
+  color: white;
+  text-decoration: none;
+}
+.anchors a:hover {
+  text-decoration: underline;
+  color: white;
+}
+.anchors a[href="imagens.html"] {
+  padding: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */
